@@ -49,7 +49,7 @@ From the above characteristic table, we can directly write the next state equati
 
 ### RTL OUTPUT :
 
-![WhatsApp Image 2024-12-09 at 4 06 30 PM](https://github.com/user-attachments/assets/fe1589cd-de3d-4b5b-b344-950c4160a126)
+![t wave](https://github.com/user-attachments/assets/a5529188-75b4-41b5-84fd-c4b39e0416c3)
 
 
 ### RESULT:
